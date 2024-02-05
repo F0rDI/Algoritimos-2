@@ -10,7 +10,7 @@ int main(void) {
 
   volume = circulo(raio);
 
-  printf("A area do circulo e: %.2f", volume);
+  printf("A area do circulo eh: %.2f", volume);
   
   return 0;
 }
