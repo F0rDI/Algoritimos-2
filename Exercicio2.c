@@ -13,7 +13,7 @@ int main(void) {
   scanf("%d", &s);
 
   resultado = soma(h,m,s);
-  printf("A soma dos segundos eh: %d", resultado);
+  printf("\nA soma dos segundos eh: %d", resultado);
   
   return 0;
 }
